@@ -3,7 +3,7 @@ build:
 
 
 accounts:
-  message: "Welcome to EazyBank accounts related docker APIs "
+  message: "Welcome to EazyBank accounts related local APIs "
   contactDetails:
     name: "John Doe - Developer"
     email: "john@eazybank.com"
@@ -11,3 +11,4 @@ accounts:
     - (555) 555-1234
 
     - (555) 523-1345
+
